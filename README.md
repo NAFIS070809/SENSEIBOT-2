@@ -24,9 +24,11 @@ $ pkg install git
 $ pkg install bash
 $ pkg install nodejs
 $ pkg install update && pkg install upgrade
-$ git clone https://github.com/NAFIS070809/SENSEIBOT
-$ cd SENSEIBOT
+$ git clone https://github.com/NAFIS070809/SENSEIBOT-2
+$ cd SENSEIBOT-2
 $ ls
+$ unzip SENSEIBOT.zip
+$ cd SENSEIBOT
 $ bash install.sh
 $ node SENSEIBOT.js
 Langsung Scan bruhh :v
