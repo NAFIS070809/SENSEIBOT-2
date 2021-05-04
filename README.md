@@ -51,12 +51,22 @@ $ cd SENSEIBOT-2
 $ cd SENSEIBOT 
 $ node SENSEIBOT.js
 ```
+### 📍SUPPORT TERUS NAFIS070809
+
+SUPPORT TERUS NAFIS070809 <img src="https://github.com/NAFIS070809/TheDudeThatCode/blob/master/Assets/Designer.gif" width="900px">
+
+Jangan lupa Follow Github INI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="900" />
+
+* [`FOLLOW GITHUB INI`](https://github.com/NAFIS070809) 
+
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`WhatsApp Admin `](https://wa.me/+6283159296996)
 * [`Group WhatsApp `](https://chat.whatsapp.com/BQXKucyoKINAcXExel0EGh)
-## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
+
+
+## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="600px">
 
 * [`MR.{108P}`]
 * [`Mr.A43G`]
