@@ -73,6 +73,7 @@ Jangan lupa Follow Github INI <img src="https://github.com/TheDudeThatCode/TheDu
 
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="600px">
 
+* [`ALLAH SWT`]
 * [`MR.{108P}`]
 * [`Mr.A43G`]
 * [`SofyanAmv`]
