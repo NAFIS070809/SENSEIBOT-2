@@ -44,6 +44,14 @@ or<br>
 $ npm start
 ```
 
+## Cara Aktifin Lagi
+
+```sh 
+$ cd SENSEIBOT-2 
+$ cd SENSEIBOT 
+$ node SENSEIBOT.js
+```
+
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`WhatsApp Admin `](https://wa.me/+6283159296996)
