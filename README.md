@@ -50,6 +50,7 @@ $ npm start
 * [`Group WhatsApp `](https://chat.whatsapp.com/BQXKucyoKINAcXExel0EGh)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
+* [`MR.{108P}`]
 * [`Mr.A43G`]
 * [`SofyanAmv`]
 * [`Arashi~`]
