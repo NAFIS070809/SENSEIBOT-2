@@ -25,10 +25,11 @@ This repo require a [NodeJS](https://nodejs.org/) >= 11.15.0.
 
 First of all, you need to install [Git](https://git-scm.com/download/win) & [NodeJS](https://nodejs.org/). Then open your git bash, and follow this:<br>
 ```sh
+$ pkg update && pkg upgrade 
 $ pkg install git
 $ pkg install bash
 $ pkg install nodejs
-$ pkg install update && pkg install upgrade
+$ pkg install ffmpeg 
 $ git clone https://github.com/NAFIS070809/SENSEIBOT-2
 $ cd SENSEIBOT-2
 $ ls
